@@ -78,6 +78,7 @@ public class VersionUtil {
             case 1200, 1201 -> "v1_20_R1";
             case 1202 -> "v1_20_R2";
             case 1203, 1204 -> "v1_20_R3";
+            case 1205, 1206 -> "v1_20_R4";
             default -> "";
         };
     }
