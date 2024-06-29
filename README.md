@@ -1,4 +1,4 @@
-# [ RTUBiomeLib 1.9.0 ]
+# [ RTUBiomeLib 1.9.2 ]
 
 ### WARNING!
 I'm not the an expert developer nor the real dev of this plugin and just trying to give support for newer versions.
