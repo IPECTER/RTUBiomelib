@@ -48,6 +48,7 @@ public final class RTUBiomeLib extends JavaPlugin implements CommandExecutor {
             case "v1_20_R2" -> nmsInterface = new NMS_1_20_R2();
             case "v1_20_R3" -> nmsInterface = new NMS_1_20_R3();
             case "v1_20_R4" -> nmsInterface = new NMS_1_20_R4();
+            case "v1_21_R1" -> nmsInterface = new NMS_1_21_R1();
             default -> {
                 Bukkit.getLogger().warning("[ RTUBiomeLib ] Server version is unsupported version, Disabling RTUBiomeLib...");
                 this.getServer().getPluginManager().disablePlugin(this);
