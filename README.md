@@ -1,9 +1,5 @@
 # [ RTUBiomeLib 1.9.2 ]
 
-### WARNING!
-I'm not the an expert developer nor the real dev of this plugin and just trying to give support for newer versions.
-I may not accept issues since I'm not the real dev. This plugin may break.
-
 [ Minecraft Plugin ] 1.17.0 ~ 1.21 Biome Library, Get Custom Biome!
 
 **RTUBiomeLib.getInterface()**
@@ -48,7 +44,7 @@ repositories {
 }
 
 dependencies {
-  implementation 'com.github.ipecter:RTUBiomeLib:1.9.0'
+  implementation 'com.github.ipecter:RTUBiomeLib:1.9.2'
 }
 ```
 
